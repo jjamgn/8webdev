@@ -7,4 +7,5 @@
 - Dừng: Nhấn Ctrl + C
 
 ## Public Hosting (GitHub Pages)
-- URL: https://jiamgn.github.io/8webdev/
+- URL: https://jjamgn.github.io/8webdev/
+
